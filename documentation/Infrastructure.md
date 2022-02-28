@@ -20,4 +20,4 @@ Infrastructure
 [Amazon S3 or S3](Amazon S3) Object storage built to retrieve any amount of data from anywhere.
 
 
-![Infrastructure](./screenshots/Infrastructure.png)
+![Infrastructure](../screenshot/Infrastructure.png)

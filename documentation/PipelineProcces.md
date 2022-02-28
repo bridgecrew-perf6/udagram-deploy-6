@@ -13,4 +13,4 @@ Pipeline Process
 - Backend install, build and deploy
 - Frontend install, build and deploy
 
-![Pipeline Process](./screenshots/pipline_procces.png)
+![Pipeline Process](../screenshot/pipline_procces.png)
