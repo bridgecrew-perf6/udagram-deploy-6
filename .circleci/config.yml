@@ -21,10 +21,6 @@ jobs:
           command: |
             npm run api-build
       - run:
-          name: Backend API Test
-          command: |
-            npm run api-test
-      - run:
           name: Backend API Deploy
           command: |
             npm run api-deploy
